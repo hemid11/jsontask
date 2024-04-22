@@ -1,0 +1,55 @@
+/* add.css */
+
+/* Navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar .logo {
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.links li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.links li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Form */
+#form {
+    margin-top: 140px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#form input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#form button:hover {
+    background-color: #0056b3;
+}
+#booktable th{padding: 10px;}

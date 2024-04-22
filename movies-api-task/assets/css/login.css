@@ -1,0 +1,42 @@
+#loginForm {
+    margin-top: 140px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+#email{
+    margin: 5px;
+}
+#password{
+    margin: 5px;
+}
+#username{
+    margin: 5px;
+}
+#confirmpassword{
+    margin: 5px;
+}
+#register{
+    padding: 3px;
+    margin: 5px;
+}
+#form input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#form button:hover {
+    background-color: #0056b3;
+}
+#booktable th{padding: 10px;}
+#registerForm{
+    align-items: center;
+    margin-top: 120px;
+}

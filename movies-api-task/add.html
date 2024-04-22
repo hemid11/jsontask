@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- bootstrap cdn link -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <!-- main css -->
+    <link rel="stylesheet" href="./assets/css/add.css">
+    <!-- header css -->
+    <link rel="stylesheet" href="./assets/css/header.css">
+    <title>Add Page</title>
+</head>
+
+<body>
+    <header>
+        <div class="container d-flex justify-content-between align-items-center wrapper">
+            <div class="logo">
+                <a href="https://netflix.com" class="logo">
+                    <img src="./assets/media/logo.png" width="140" height="50" alt="">
+                </a>
+            </div>
+            <ul class="links    ">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div id="container">
+        <div id="form">
+            <div style="margin-bottom: 10px;">
+                <input type="text" id="firstName" placeholder="Name"><br>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <input type="text" id="lastName" placeholder="Bio"><br>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <input type="text" id="contacttitle" placeholder="genre"><br>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <input type="text" id="country" placeholder="Country"><br>
+            </div>
+            <div>
+                <button class="add-remove-btn" onclick="addRow()">Add</button>
+            </div>
+        </div>
+        <div id="tableContainer"></div>
+    </div>
+
+    <!-- bootstrap script -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <!-- sweet alert cdn -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- axios cdn -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="module" src="./assets/js/add.js"></script>
+    <script src="./assets/js/add.js"></script>
+
+</body>
+
+</html>

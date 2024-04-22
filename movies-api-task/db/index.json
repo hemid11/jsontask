@@ -1,0 +1,171 @@
+{
+  "movies": [
+    {
+      "title": "A Shrek 1",
+      "genre": "animationdsad",
+      "country": "USA",
+      "director": "Andrew Adamson",
+      "ageRestriction": "9",
+      "poster": "https://i.ebayimg.com/images/g/eqkAAOSwY3tbOvT5/s-l1600.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=CwXOrWvPBPk&ab_channel=RottenTomatoesClassicTrailers",
+      "description": "In a bid to get his land back, Shrek agrees to retrieve Princess Fiona for the fairytale-hating Lord Farquaad of Duloc, but falls in love with her on the way.",
+      "id": "1"
+    },
+    {
+      "title": "Z Shrek 2",
+      "genre": "animation",
+      "country": "USA",
+      "director": "Andrew Adamson",
+      "ageRestriction": "2",
+      "poster": "https://m.media-amazon.com/images/I/51S092xuYYS._AC_UF894,1000_QL80_.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=CwXOrWvPBPk&ab_channel=RottenTomatoesClassicTrailers",
+      "description": "In a bid to get his land back, Shrek agrees to retrieve Princess Fiona for the fairytale-hating Lord Farquaad of Duloc, but falls in love with her on the way. UPDATED",
+      "id": "2"
+    },
+    {
+      "title": "Shrek 2",
+      "genre": "animation",
+      "country": "USA",
+      "director": "Andrew Adamson",
+      "ageRestriction": "0",
+      "poster": "https://m.media-amazon.com/images/I/51S092xuYYS._AC_UF894,1000_QL80_.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=CwXOrWvPBPk&ab_channel=RottenTomatoesClassicTrailers",
+      "description": "In a bid to get his land back, Shrek agrees to retrieve Princess Fiona for the fairytale-hating Lord Farquaad of Duloc, but falls in love with her on the way. UPDATED",
+      "id": "2"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "animation"
+    },
+    {
+      "id": "2",
+      "name": "drama"
+    },
+    {
+      "id": "3",
+      "name": "comedy"
+    },
+    {
+      "id": "4",
+      "name": "horror"
+    },
+    {
+      "id": "5",
+      "name": "fantasy"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "wehw4h",
+      "wishlistItems": [
+        {
+          "id": 1,
+          "movieId": 2
+        }
+      ]
+    },
+    {
+      "id": "47da",
+      "username": "ismayilzadehemid9@gmail.com"
+    },
+    {
+      "id": "8b53",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "3c83",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "733f",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "b21d",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "8ded",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "9729",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "aab2",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "9b07",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "5e6d",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "302b",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "3442",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "bdce",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "0fb0",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "aee5",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "6e74",
+      "username": "elnur@mail.ru2"
+    },
+    {
+      "id": "3f03",
+      "username": "elnur213@mail.ru2"
+    },
+    {
+      "id": "84fe",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "4640",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "4806",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "9178",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "bda3",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "b39d",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "fb2b",
+      "username": "elnur@mail.ru"
+    },
+    {
+      "id": "7f5c",
+      "username": "elnur@mail.ru"
+    }
+  ]
+}
